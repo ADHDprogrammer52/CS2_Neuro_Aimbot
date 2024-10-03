@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/DeepDebug752/test">
+  <a href="https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot/">
     <img src="logo/logo2.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -48,7 +48,7 @@ You'll need the following dependencies installed on your system:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot.git
    ```
 2. Go to aimbot folder:
    ```sh
@@ -101,4 +101,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DeepDebug752/test/blob/main/LICENSE
+[license-url]: https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot/blob/main/LICENSE
