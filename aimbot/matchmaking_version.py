@@ -63,7 +63,7 @@ while True:
     for idx, cls in enumerate(results.boxes.cls):
         if names[int(cls)] == 'ct':  # Chose class 'ct' or 't'
             coordinates = results.boxes.xywh.cpu().numpy()[idx]
-            x, y, w, h = coordinates[0][:4]
+            x, y, w, h = coordinates[:4]
             center_x = int(x)
             center_y = int(y)
 
